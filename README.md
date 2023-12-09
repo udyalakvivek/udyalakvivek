@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ vivek pandey
 - 👀 I’m interested in web develepment < frontend or backend >.
 - 🌱 I’m currently learning ... BCA <finel year>
-- 💞️ I’m looking to collaborate on ... web stackdevelopment 
+- 💞️ I’m looking to collaborate on ... web development 
 - 📫 How to reach me ...@INSTAGRAM-ID >> : @vivekudyalak
 
 <!---
