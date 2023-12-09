@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build a survey form by using html and css</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 id="h1"> Trainning Basket Survey Form </h1>
+    <form action="" class="form">
+        <div class="inp">
+            <label for="Name" class="label2" >Name</label>
+            <input class="input" type="text" placeholder="Enter your name..." id="Name">
+        </div>
+        <div class="inp">
+            <label for="Email" class="label2" >E-mail</label>
+            <input class="input" type="email"  id="Email" value="@gmail.com">
+        </div>
+        <div class="inp">
+            <label for="Age" class="label2" >Age</label>
+            <input class="input" type="number" placeholder="Enter your age..." id="Age">
+        </div>
+        <div class="inp">
+            <label for="role" class="label2" >Which option Best describes you</label>
+            <select name=" role" class="input">
+                <option value="0">Choose your option</option>
+                <option value="1">Student</option>
+                <option value="2">intern</option>
+                <option value="3">professional</option>
+                <option value="4">other</option>
+            </select>
+        </div>
+        <div class= "inp">
+            <label for="" class="label2" >Would you recommended Training basket to a friend</label>
+            <label for="" >
+                <input type="radio" name="choice" > Yes  
+            </label>
+            <label for="">
+                <input type="radio" name="choice"> No
+            </label>
+            <label for="">
+                <input type="radio" name="choice"> Maybe
+            </label>
+
+        </div>
+        <div class="inp ">
+            <label for="" class="label2" >Language and Framworks Knowns (Check all that apply)</label>
+            <label for="">
+                <input class="checkbox" type="checkbox">C
+            </label>
+            <label for="">
+                <input class="checkbox" type="checkbox">c++
+            </label>
+            <label for="">
+                <input class="checkbox" type="checkbox">java
+            </label>
+            <label for="">
+                <input class="checkbox" type="checkbox">Python
+            </label>
+            <label for="">
+                <input class="checkbox" type="checkbox">Javascript
+            </label>
+            <label for="">
+                <input class="checkbox" type="checkbox">Data science
+            </label>
+            <label for="">
+                <input class="checkbox" type="checkbox">CCNA
+            </label>
+            <label for="">
+                <input class="checkbox" type="checkbox">Full Stack development
+            </label>
+
+        </div>
+        <div class="inp">
+            <label for="comment" class="label2"> Any comment or Suggestion </label>
+            <textarea class="input" name="" id="comment" cols="30" rows="10"
+                placeholder="Enter Your Comment  here"></textarea>
+        </div>
+        <!-- <input type="submit" value="Submit"> -->
+        <button class="button" type="submit" value="Submit">submit</button>
+    </form>
+</body>
+
+</html>
