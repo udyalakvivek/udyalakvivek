@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ vivek pandey
-- 👀 I’m interested in web develepment < frontend or backend >.
-- 🌱 I’m currently learning ... BCA <finel year>
-- 💞️ I’m looking to collaborate on ... web development 
-- 📫 How to reach me ...@INSTAGRAM-ID >> : @vivekudyalak
-
-<!---
-udyalakvivek/udyalakvivek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Vivek Pandey
+💻 Python Backend Developer | Django
+🎓 BCA Graduate
+🌱 Passionate about building backend applications and REST APIs.
+🤝 Open to collaborating on web development projects.
+📫 Instagram: [@vivekudyalak](https://www.instagram.com/vivekudyalak/)
+*"Code. Learn. Build. Repeat."*
